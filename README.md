@@ -103,6 +103,7 @@ Loops:
 			
 
 Exceptions:
+
 	UnknownInitialFunctionException - Thrown when a base function that is used doesn't exist
 	NullPointerException		- Thrown when a null object is called
 	NonExistantObjectException      - Thrown when an object is called but doesn't exist
